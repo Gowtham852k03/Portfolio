@@ -26,7 +26,7 @@
 
 body{
   font-family: 'Raleway', sans-serif;
-  color: #E7E7E7;
+  color: white;
   min-height: 100vh;
 }
 video{
@@ -42,7 +42,7 @@ video{
 b{
 
   font-weight: 900;
-  color:  rgb(0, 0, 255);
+  color:#ff7f11;
 }
 
 /* Scrollbar */
@@ -128,7 +128,7 @@ b{
 }
 
 .NavbarLinks a{
-  color: #c2c1c2;
+  color: aliceblue;
   display:flex;
   align-items: center;
   justify-content: space-between;
@@ -143,7 +143,7 @@ b{
   color: #ffffff;
 }
 .NavbarLinks a::after{
-  background-color:blue;
+  background-color:#ff7f11;
   content: "";
   position: absolute;
   height: 3px;
@@ -194,7 +194,7 @@ b{
 
   .bar{
     display: block;
-    background-color: #E7E7E7;
+    background-color: white;
     border-radius: 50px;
     height: 2.5px;
     width: 30px;
@@ -324,7 +324,7 @@ b{
   padding-bottom: 40px;
 }
 .AboutText a{
-  color: blue;
+  color:#ff7f11;
   text-decoration: underline;
   font-weight: bold;
 }
@@ -379,22 +379,22 @@ b{
 }
 
 .SkillBox{
-  width: max(15%,150px);
-  height: 150px;
+  width: max(15%,130px);
+  height: 130px;
   display: flex;
   align-items: center;
   justify-content: center;
   margin: 0px 25px 25px 0px;
-  border: 3px solid blue;
+  border: 3px solid #ff7f11;
   font-size: 64px;
   border-radius: 5px;
   transition: 0.5s;
 }
 .SkillBox:hover{
-  transform: scale(1.2);
-  border-color: aliceblue;
-  box-shadow: 0 4px 8px 4px blue;
-  color: rgb(24, 24, 253);
+  transform: scale(1.05);
+  border-color: #ff7f11;
+  box-shadow: 0 0px 10px 2px #ff7f11;
+  color:#ff7f11;
 }
 
 .SkillsHeading{
@@ -403,7 +403,7 @@ b{
   margin-top: 120px;
   font-size: 36px;
   letter-spacing: 0.6px;
-  color: aliceblue;
+  color: white;
 }
 
 @media(max-width: 500px) {
@@ -453,7 +453,7 @@ b{
 
 .projectBox{
   width: 350px;
-  border: 3px solid rgb(0, 0, 255);
+  border: 3px solid #ff7f11;
   border-radius: 5px;
   text-align: center;
   padding: 15px;
@@ -466,8 +466,8 @@ b{
 }
 .projectBox:hover{
   transform: scale(1.05);
-  border-color: aliceblue;
-  box-shadow: 10px 10px 30px 10px rgb(0, 8, 255);
+  border-color:white;
+  box-shadow: 0px 5px 20px 5px #ff7f11;
 }
 
 .projectPhoto{
@@ -484,8 +484,8 @@ b{
   width: 40%;
   margin: 25px 3% 0;
   border-radius: 5px;
-  background-color: rgb(39, 39, 243);
-  color: #E7E7E7;
+  background-color:#d86f14;
+  color: white;
   height: 30px;
   cursor:pointer;
   text-decoration: none;
@@ -526,8 +526,8 @@ b{
   margin: 25px 0px;
   width: 200px;
   height: 40px;
-  background-color:#431f47;
-  color: #E7E7E7;
+  background-color:#ff7f11;
+  color: white;
   text-decoration: none;
   border-radius: 5px;
   border-style: none; 
@@ -536,7 +536,7 @@ b{
 
 .downloadCV:hover{
   transition: all 0.5s;
-  background-color: #E7E7E7;
+  background-color: white;
   color: #431f47;
 }
 
@@ -577,7 +577,7 @@ footer h4{
   color: inherit;
 }
 .footerLinks a:hover{
-  color: blue;
+  color:#ff7f11;
 }
 
 @media(max-width:750px){
