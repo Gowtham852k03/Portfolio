@@ -6,12 +6,12 @@ import { CgFileDocument } from "react-icons/cg";
 const ProjectBox = ({ projectPhoto, projectName }) => {
   const desc = {
     StopWatchDesc: "Introducing the ultimate stopwatch web app with time lapse, start, stop, and reset functionalities. Perfect for all your timing needs, anytime, anywhere.",
-    StopWatchGithub: "https://github.com/Gowtham852k03/PRODIGY_WD_02",
-    StopWatchWebsite: "https://gowtham852k03.github.io/PRODIGY_WD_02/",
+    StopWatchGithub: "https://github.com/Gowtham852k03/Stop_Watch",
+    StopWatchWebsite: "https://gowtham852k03.github.io/Stop_Watch/",
 
     WeatherAppDesc: "Get real-time weather updates and  forecasts for any location with our intuitive web app. Stay informed on temperature, humidity and wind speed to plan your day with confidence.",
-    WeatherAppGithub: "https://github.com/Gowtham852k03/PRODIGY_WD_05",
-    WeatherAppWebsite: "https://gowtham852k03.github.io/PRODIGY_WD_05/",
+    WeatherAppGithub: "https://github.com/Gowtham852k03/Weather_App",
+    WeatherAppWebsite: "https://gowtham852k03.github.io/Weather_App/",
 
     TexttoVoiceDesc: "Web app with Google's Text-to-Speech using HTML/CSS/JS  for text-to-speech conversion.",
     TexttoVoiceGithub: "https://github.com/Gowtham852k03/Text-to-Voice",
@@ -23,12 +23,12 @@ const ProjectBox = ({ projectPhoto, projectName }) => {
 
 
     LandingPageDesc: "Explore your next adventure with our innovative tourism landing page. Discover curated travel experiences, exclusive deals, and expert advice all in one place. Start your journey today and explore the world .",
-    LandingPageGithub: "https://github.com/Gowtham852k03/PRODIGY_WD_01",
-    LandingPageWebsite: "https://gowtham852k03.github.io/PRODIGY_WD_01/",
+    LandingPageGithub: "https://github.com/Gowtham852k03/Landing_Page",
+    LandingPageWebsite: "https://gowtham852k03.github.io/Landing_Page/",
 
     TikTakToeDesc: "Explore our tic-tac-toe game, a classic reborn with a sleek, modern design and intuitive gameplay.",
-    TikTakToeGithub: "https://github.com/Gowtham852k03/PRODIGY_WD_03",
-    TikTakToeWebsite: "https://gowtham852k03.github.io/PRODIGY_WD_03/",
+    TikTakToeGithub: "https://github.com/Gowtham852k03/Tik_Tak_Toe",
+    TikTakToeWebsite: "https://gowtham852k03.github.io/Tik_Tak_Toe/",
 
     TodoListDesc: "Discover our innovative todo list web app, designed with ReactJS for seamless task management. Effortlessly add, organize, and prioritize tasks to boost your productivity.",
     TodoListGithub: "https://github.com/Gowtham852k03/Todo_Lists",
