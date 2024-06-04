@@ -31,7 +31,7 @@ const ProjectBox = ({ projectPhoto, projectName }) => {
     TikTakToeWebsite: "https://gowtham852k03.github.io/Tik_Tak_Toe/",
 
 
-    iPhone_SiteDesc: "A phone model website often includes detailed features, FAQs, and pricing information for devices, enabling users to make informed decisions based on their specific needs and preferences.",
+    iPhone_SiteDesc: "A phone model website's UI/UX design plays a crucial role in providing a user-friendly experience, ensuring easy navigation through features, FAQs, and pricing sections, ultimately enhancing user satisfaction and engagement.",
     iPhone_SiteGithub: "",
     iPhone_SiteWebsite: "https://invisible-need-383293.framer.app/",
 
