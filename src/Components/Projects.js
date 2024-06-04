@@ -6,6 +6,8 @@ import Weatherapp from '../images/weatherapp.png';
 import Tiktaktoe from '../images/xo.png';
 import Stopwatch from '../images/stopwatch.png';
 import MenuSpot from '../images/menuspot.png';
+import iphone from '../images/iphone.png'
+import todo from '../images/TodoList.png'
 
 const Projects = () => {
   return (
@@ -18,6 +20,8 @@ const Projects = () => {
         <ProjectBox projectPhoto={Weatherapp} projectName="WeatherApp" />
         <ProjectBox projectPhoto={Stopwatch} projectName="StopWatch" />
         <ProjectBox projectPhoto={Tiktaktoe} projectName="TikTakToe" />
+        <ProjectBox projectPhoto={iphone} projectName="iPhone_Site" />
+        <ProjectBox projectPhoto={todo} projectName="TodoList" />
       </div>
 
     </div>

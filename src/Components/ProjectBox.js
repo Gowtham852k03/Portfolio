@@ -30,7 +30,12 @@ const ProjectBox = ({ projectPhoto, projectName }) => {
     TikTakToeGithub: "https://github.com/Gowtham852k03/Tik_Tak_Toe",
     TikTakToeWebsite: "https://gowtham852k03.github.io/Tik_Tak_Toe/",
 
-    TodoListDesc: "Discover our innovative todo list web app, designed with ReactJS for seamless task management. Effortlessly add, organize, and prioritize tasks to boost your productivity.",
+
+    iPhone_SiteDesc: "A phone model website often includes detailed features, FAQs, and pricing information for devices, enabling users to make informed decisions based on their specific needs and preferences.",
+    iPhone_SiteGithub: "",
+    iPhone_SiteWebsite: "https://invisible-need-383293.framer.app/",
+
+    TodoListDesc: "A to-do list is a tool for organizing tasks and boosting productivity. By prioritizing and tracking tasks, it helps individuals stay focused and accomplish goals efficiently.",
     TodoListGithub: "https://github.com/Gowtham852k03/Todo_Lists",
     TodoListWebsite: "https://gowtham852k03.github.io/Todo_Lists/",
 
